@@ -1,0 +1,27 @@
+{
+  "name": "pizza-api",
+  "version": "1.0.0",
+  "description": "pizza API with AWS on CloudiaJS core basis",
+  "main": "api.js",
+  "scripts": {
+    "create": "claudia create --region eu-west-2 --api-module api",
+    "update": "claudia update"
+  },
+  "keywords": [
+    "aws",
+    "ClaudiaJS",
+    "lambda",
+    "gateway",
+    "dynamoDB",
+    "etc"
+  ],
+  "author": "Magnifikate",
+  "license": "ISC",
+  "devDependencies": {
+    "claudia": "^5.12.0"
+  },
+  "dependencies": {
+    "claudia-api-builder": "^4.1.2",
+    "claudia-bot-builder": "^4.5.0"
+  }
+}

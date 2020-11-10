@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name": "Cappriciosa",
+        "ingredients": ["tomato souce", "mozzarela", "mushrooms", "ham","olives"]
+    },
+    {
+        "id":2,
+        "name": "Qattro Formaggi",
+        "ingredients": ["tomato souce", "mozzarela", "parmesan cheese", "blue cheese","goat cheese"]
+    },
+    {
+        "id":3,
+        "name": "Napoletana",
+        "ingredients": ["tomato souce", "anchovies", "capers","olives"]
+    },
+    {
+        "id":4,
+        "name": "Margherita",
+        "ingredients": ["tomato souce", "mozzarela"]
+    }
+]
